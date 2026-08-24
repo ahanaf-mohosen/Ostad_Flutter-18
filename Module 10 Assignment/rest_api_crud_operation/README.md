@@ -1,6 +1,6 @@
 # REST API CRUD Operation
 
-A Flutter application implementing complete CRUD (Create, Read, Update, Delete) operations using a REST API. This project was developed as part of the Ostad Flutter Batch 18 Module 10 Assignment.
+A Flutter application implementing complete CRUD (Create, Read, Update, Delete) operations using a REST API.
 
 ## Features
 
@@ -42,6 +42,3 @@ To run this project locally:
 3. Run `flutter pub get` to install dependencies.
 4. Run `flutter run` to launch the app on your device or emulator.
 
----
-
-For help getting started with Flutter development, view the [online documentation](https://docs.flutter.dev/), which offers tutorials, samples, guidance on mobile development, and a full API reference.
