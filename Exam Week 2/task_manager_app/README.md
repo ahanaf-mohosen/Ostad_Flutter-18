@@ -1,14 +1,10 @@
 # 📝 Task Manager App
 
-A full-featured, cross-platform **Task Manager Application** built with **Flutter** and **Material 3**. This app enables users to easily create, view, update, toggle, and delete tasks with real-time REST API integration and a clean, responsive UI.
 
----
-
-## 📱 App Screenshots
 
 | Splash Screen | Add Task Form | Task Created |
 | :---: | :---: | :---: |
-| <img src="images/5.jpeg" width="250" alt="Splash Screen"/> | <img src="images/4.jpeg" width="250" alt="Add Task"/> | <img src="images/1.jpeg" width="250" alt="Task Created"/> |
+| <img src="images/1.jpeg" width="250" alt="Splash Screen"/> | <img src="images/5.jpeg" width="250" alt="Add Task"/> | <img src="images/5.jpeg" width="250" alt="Task Created"/> |
 | **Custom Splash Logo** | **Task Creation & Form Validation** | **Success Feedback & List Update** |
 
 | Delete Task Dialog | Updated Task List | Task Status Toggle |
