@@ -1,20 +1,16 @@
 # 📝 Task Manager App
 
-A full-featured, cross-platform **Task Manager Application** built with **Flutter** and **Material 3**. This app enables users to easily create, view, update, toggle, and delete tasks with real-time REST API integration and a clean, responsive UI.
 
----
-
-## 📱 App Screenshots
 
 | Splash Screen | Add Task Form | Task Created |
 | :---: | :---: | :---: |
-| <img src="images/5.jpeg" width="250" alt="Splash Screen"/> | <img src="images/4.jpeg" width="250" alt="Add Task"/> | <img src="images/1.jpeg" width="250" alt="Task Created"/> |
+| <img src="images/1.jpeg" width="250" alt="Splash Screen"/> | <img src="images/6.jpeg" width="250" alt="Add Task"/> | <img src="images/3.jpeg" width="250" alt="Task Created"/> |
 | **Custom Splash Logo** | **Task Creation & Form Validation** | **Success Feedback & List Update** |
 
-| Delete Task Dialog | Updated Task List | Task Status Toggle |
+| Delete Task Dialog | Updated Task List |  |
 | :---: | :---: | :---: |
-| <img src="images/2.jpeg" width="250" alt="Delete Task Dialog"/> | <img src="images/3.jpeg" width="250" alt="Updated Task List"/> | <img src="images/6.jpeg" width="250" alt="Completed Task"/> |
-| **Confirmation Alert Dialog** | **List View After Deletion** | **Task Completion Toggle** |
+| <img src="images/4.jpeg" width="250" alt="Delete Task Dialog"/> | <img src="images/5.jpeg" width="250" alt="Updated Task List"/> | <img src="" width="250" alt=""/> |
+| **Confirmation Alert Dialog** | **List View After Deletion** |  |
 
 ---
 
