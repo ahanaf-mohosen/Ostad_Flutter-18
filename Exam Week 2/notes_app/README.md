@@ -27,31 +27,27 @@ A feature-rich, beautiful, and lightweight Flutter note-taking application desig
 
 ## 📱 App Screenshots
 
-Here is a visual walkthrough of the Notes App across various features and screens:
+Here is a visual walkthrough of the Notes App across various features and screens (3 images per row):
 
-### 1. Home Screen & Note List
-![Home Screen](images/1.png)
-
-### 2. Add New Note Screen
-![Add Note](images/2.png)
-
-### 3. Populated Notes List
-![Notes List](images/3.png)
-
-### 4. Note Details View
-![Note Details](images/4.png)
-
-### 5. Edit Note Screen
-![Edit Note](images/5.png)
-
-### 6. Delete Confirmation Dialog
-![Delete Confirmation](images/6.png)
-
-### 7. Search Feature in Action
-![Search Notes](images/7.png)
-
-### 8. Empty Search / Zero State
-![Empty State](images/8.png)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>1. Home Screen</b><br><br><img src="images/1.png" width="220"/></td>
+      <td align="center"><b>2. Add Note</b><br><br><img src="images/2.png" width="220"/></td>
+      <td align="center"><b>3. Notes List</b><br><br><img src="images/3.png" width="220"/></td>
+    </tr>
+    <tr>
+      <td align="center"><b>4. Note Details</b><br><br><img src="images/4.png" width="220"/></td>
+      <td align="center"><b>5. Edit Note</b><br><br><img src="images/5.png" width="220"/></td>
+      <td align="center"><b>6. Delete Dialog</b><br><br><img src="images/6.png" width="220"/></td>
+    </tr>
+    <tr>
+      <td align="center"><b>7. Search Notes</b><br><br><img src="images/7.png" width="220"/></td>
+      <td align="center"><b>8. Empty State</b><br><br><img src="images/8.png" width="220"/></td>
+      <td align="center"></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
