@@ -37,13 +37,13 @@ Here is a visual walkthrough of the Notes App across various features and screen
       <td align="center"><b>3. Notes List</b><br><br><img src="images/3.png" width="220"/></td>
     </tr>
     <tr>
-      <td align="center"><b>4. Note Details</b><br><br><img src="images/4.png" width="220"/></td>
+      <td align="center"><b>4. Note Three Dot Details</b><br><br><img src="images/4.png" width="220"/></td>
       <td align="center"><b>5. Edit Note</b><br><br><img src="images/5.png" width="220"/></td>
-      <td align="center"><b>6. Delete Dialog</b><br><br><img src="images/6.png" width="220"/></td>
+      <td align="center"><b>6. Search Note</b><br><br><img src="images/6.png" width="220"/></td>
     </tr>
     <tr>
-      <td align="center"><b>7. Search Notes</b><br><br><img src="images/7.png" width="220"/></td>
-      <td align="center"><b>8. Empty State</b><br><br><img src="images/8.png" width="220"/></td>
+      <td align="center"><b>7. Note Details</b><br><br><img src="images/7.png" width="220"/></td>
+      <td align="center"><b>8. Delete Note State</b><br><br><img src="images/8.png" width="220"/></td>
       <td align="center"></td>
     </tr>
   </table>
