@@ -27,7 +27,7 @@ A feature-rich, beautiful, and lightweight Flutter note-taking application desig
 
 ## 📱 App Screenshots
 
-Here is a visual walkthrough of the Notes App across various features and screens (3 images per row):
+Here is a visual walkthrough of the Notes App across various features and screens:
 
 <div align="center">
   <table>
@@ -62,7 +62,7 @@ Here is a visual walkthrough of the Notes App across various features and screen
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/notes_app.git
+   git clone https://github.com/ahanaf-mohosen/notes_app.git
    cd notes_app
    ```
 
@@ -91,8 +91,3 @@ lib/
     └── note_details_screen.dart # Detailed view of individual notes
 ```
 
----
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
