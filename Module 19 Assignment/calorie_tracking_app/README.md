@@ -1,17 +1,23 @@
-# calorie_tracking_app
+# Calorie Tracker
 
-A new Flutter project.
+A simple Flutter app for recording food and tracking daily calorie intake against a 2,000 kcal goal.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+| Daily summary | Food added |
+| --- | --- |
+| ![Calorie Tracker home screen](screenshots/home.png) | ![Calorie Tracker with a food entry](screenshots/food_entry.png) |
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Shows today's date, calories consumed, the daily goal, and calories remaining.
+- Add a food name and calorie amount with input validation.
+- View food entries and remove them from the diary.
+- Keeps entries in memory; the list resets when the app restarts.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Run the app
+
+```bash
+flutter pub get
+flutter run
+```
